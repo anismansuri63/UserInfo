@@ -1,0 +1,6 @@
+framework module Pods_GPSTrackDemo_GPSTrackDemoUITests {
+  umbrella header "Pods-GPSTrackDemo-GPSTrackDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

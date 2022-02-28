@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.5.0)
+  - GoogleMaps (6.0.1):
+    - GoogleMaps/Maps (= 6.0.1)
+  - GoogleMaps/Base (6.0.1)
+  - GoogleMaps/Maps (6.0.1):
+    - GoogleMaps/Base
+  - SVProgressHUD (2.2.5)
+  - TPKeyboardAvoiding (1.3.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - SVProgressHUD
+  - TPKeyboardAvoiding
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - SVProgressHUD
+    - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  GoogleMaps: c213fc2334b7374144cede914da779b99be0ab74
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TPKeyboardAvoiding: d55b3ea7b362540af8fcf36aa3ed2e87bf210cc6
+
+PODFILE CHECKSUM: 83a096f1ff2e93ec1d2750791965530ca01b7ca8
+
+COCOAPODS: 1.10.1
